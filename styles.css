@@ -10,6 +10,7 @@
     padding-left: 30px;
     padding-top: 40px;
     color: #ffffff;
+    font-size: 25px;
   }
 
   .background1
@@ -21,7 +22,7 @@
     background-position: center;
     background-attachment:scroll;
     margin: 0;
-    height: 400px;
+    height: 900px;
     color: white;
     justify-content: center;
     position: relative;
@@ -29,7 +30,7 @@
 
 .floatimage
 {
-    padding-top: 50px;
+    padding-top: 100px;
     display: flex;
      align-items: center;
      justify-content: center
@@ -37,7 +38,7 @@
 
 .container
 {
-    padding-top: 20px;
+    padding-top: 100px;
     display: flex;
     justify-content: space-evenly;
     align-items: baseline;
@@ -47,10 +48,32 @@ article
 {
     background-color: rgb(168, 166, 166); 
     padding: 30px;
+    height: 900px;
+    font-size: 20px;
 }
 
 main{
     background-color: rgb(38, 25, 70); 
 color: #ffffff;
 padding: 40px;
+height: 900px;
+font-size: 20px;
+}
+
+footer
+{
+    font-size: 20px;
+
+    background-color: rgb(57, 191, 214); 
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+summary
+{
+    padding: 40px;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+
 }
